@@ -18,11 +18,11 @@ html{
 }
 
 .btn-green{
-  background-color: #ABDA0A;
+  background-color: rgb(107, 87, 126);
 }
 
 .btn-green:hover{
-  background-color: #CEFF25;
+  background-color: rgb(198, 248, 18);
 }
 
 a.btn-green{
